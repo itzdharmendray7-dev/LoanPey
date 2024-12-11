@@ -1,0 +1,51 @@
+.is_clickable {
+  cursor: hand;
+  cursor: pointer;
+}
+
+.nstSlider {
+  cursor: hand;
+  cursor: pointer;
+  border-radius: 0px;
+  position: relative;
+  width: 100%;
+  height: 4px;
+  background: #ecf0f3;
+  margin-bottom: 10px;
+}
+
+.nstSlider .leftGrip.gripHighlighted {
+  background: #113344;
+}
+
+.nstSlider .rightGrip.gripHighlighted {
+  background: #113344;
+}
+
+.nstSlider .rightGrip,
+.nstSlider .leftGrip {
+  position: absolute;
+  border-radius: 100px;
+  width: 14px;
+  height: 14px;
+  background: #ff7555;
+  top: -5px;
+  left: 0px;
+}
+
+.nstSlider .bar {
+  border-radius: 10px;
+  position: absolute;
+  background: #ff7555;
+  height: 8px;
+  top: -2px;
+}
+
+.nstSlider .highlightPanel {
+  transition: all 500ms ease-in-out;
+  border-radius: 10px;
+  position: absolute;
+  background: #e87722;
+  height: 20px;
+  top: 0;
+}

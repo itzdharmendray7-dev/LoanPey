@@ -1,0 +1,23 @@
+// app global css in SCSS form
+@font-face {
+  font-family: 'Rubik';
+  src: url('/src/fonts/Rubik-Bold.ttf') format('ttf'),
+    url('/src/fonts/Rubik-Light.ttf') format('ttf'),
+    url('/src/fonts/Rubik-Italic.ttf') format('ttf'),
+    url('/src/fonts/Rubik-Medium.ttf') format('ttf'),
+    url('/src//fonts/Rubik-Black.ttf') format('ttf'),
+    url('/src/fonts/Rubik-SemiBold.ttf') format('ttf'),
+    url('/src/fonts/Rubik-ExtraBold.ttf') format('ttf'),
+    url('/src/fonts/Rubik-BoldItalic.ttf') format('ttf'),
+    url('/src//fonts/Rubik-BlackItalic.ttf') format('ttf'),
+    url('/src/fonts/Rubik-LightItalic.ttf') format('ttf'),
+    url('/src/fonts/Rubik-MediumItalic.ttf') format('ttf'),
+    url('/src/fonts/fonts/Rubik-Regular.ttf') format('ttf'),
+    url('/src/fonts/Rubik-SemiBoldItalic.ttf') format('ttf'),
+    url('/src/fonts/Rubik-ExtraBoldItalic.ttf') format('ttf'),
+    url('/src/fonts/Rubik-VariableFont_wght.ttf') format('ttf'),
+    url('/src/fonts/Rubik-Italic-VariableFont_wght.ttf') format('ttf');
+
+  font-weight: normal;
+  font-style: normal;
+}
