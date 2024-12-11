@@ -80,17 +80,7 @@ const toggleMobileMenu = () => {
 </script>
 
 <style lang="scss">
-@import '/src/css/style.scss';
-@import '/src/css/slick.scss';
-@import '/src/css/swipper.scss';
-@import '/src/css/animate.scss';
-@import '/src/css/light-case.scss';
-@import '/src/css/global_css.scss';
-@import '/src/css/slick-theme.scss';
-@import '/src/css/all-min-css.scss';
-@import '/src/flaticon/flaticon.css';
 @import '/src/css/bootstrap-grid.scss';
-@import '/src/css/jquery-nstSlider.scss';
 
 .menu-placeholder {
   height: 100px;

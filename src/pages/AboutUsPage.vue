@@ -16,12 +16,12 @@
       <div class="container">
         <ul class="d-flex flex-wrap justify-content-center align-items-center">
           <li><a href="/">Home</a></li>
-          <li><a class="active">Comapny</a></li>
+          <li><a class="active">Company</a></li>
         </ul>
       </div>
     </div>
 
-    <section class="case-study-single padding-tb progress " style="margin-top: -98px;">
+    <section class="case-study-single padding-tb progress">
       <div class="container">
 
         <div class="section-wrapper row justify-content-center">
